@@ -1,0 +1,28 @@
+.tile {
+  width: 150px;
+  height: 150px;
+  border: 5px solid rgb(7, 7, 51); 
+  background-size: cover;
+  display: inline-block;
+  margin: 10px 10px;
+}
+
+.mark1 {
+  background-image: url('./O-Player.jpg');
+}
+
+.mark2 {
+  background-image: url('./X-Player.png');
+}
+
+.Welcome-Message { 
+  display: flex;
+}
+.heading { 
+  margin-left: 2.5em;
+  text-decoration: underline;
+}
+
+.App {
+  background-color: rgb(87, 86, 86)
+}
